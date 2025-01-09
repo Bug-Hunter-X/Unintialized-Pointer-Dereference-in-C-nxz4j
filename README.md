@@ -1,0 +1,1 @@
+This repository demonstrates a common C programming error involving uninitialized pointers.  The bug.c file contains code that dereferences an uninitialized pointer, leading to unpredictable behavior and potential crashes.  The bugSolution.c file shows how to correct this by properly initializing the pointer before use.
