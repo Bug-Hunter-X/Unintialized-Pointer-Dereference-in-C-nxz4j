@@ -1,0 +1,1 @@
+int main() {    int x = 10;    int *ptr; // Declare the pointer    ptr = &x; // Assign the address of x to ptr    *ptr = 20;    printf("%d\n", x); // Output: 20    return 0;} 
